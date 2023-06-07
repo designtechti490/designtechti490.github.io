@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "bundle install && gem install jekyll"
+    "build": "bundle install && gem install jekyll --user-install"
   }
 }
