@@ -8,5 +8,8 @@
 		  "buildCommand": "gem install --user-install"
 		}
 	  }
+	],
+	"rewrites": [
+		{"source": "/(.*)", "destination":"/"}
 	]
-  }  
+}
