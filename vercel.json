@@ -1,0 +1,9 @@
+{
+  "builds": [
+    { "src": "_config.yml", "use": "@vercel/static-build" }
+  ],
+  "install": [
+    { "use": "@vercel/static-build", "command": "bundle install" },
+    { "use": "@vercel/static-build", "command": "gem install jekyll" }
+  ]
+}
