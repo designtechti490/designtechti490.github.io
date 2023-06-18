@@ -247,6 +247,11 @@ header .navbar.navbar-light .nav-link.active {
 			zoom: 50%;
 		}
 
+		.social-media .twitter-icon::before {
+			content: url(../midias/icons/twitter.png);
+			zoom: 50%;
+		}
+
 		.social-media .github-icon::before {
 			content: url(../midias/icons/github.png);
 			zoom: 50%;
