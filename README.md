@@ -1,4 +1,4 @@
-![Banner](https://imgur.com/a/UX7au7k)
+![Banner](Portfólio.gif)
 
 # Site Design Tech TI
 
