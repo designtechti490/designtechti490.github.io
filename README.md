@@ -1,4 +1,4 @@
-![Banner](https://j.gifs.com/GRA5vJ.gif)
+![Banner](https://imgur.com/a/UX7au7k)
 
 # Site Design Tech TI
 
